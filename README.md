@@ -1,8 +1,8 @@
 ### Newproject
 
 
-This is an H1
+This is the sample python project
 -------------
 
-This is an H1
+This is the sample python project
 -------------
